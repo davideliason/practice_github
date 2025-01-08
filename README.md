@@ -6,6 +6,7 @@
 
 This is new
 This is a new line 
+a is for apple
 
 git remote set-url git@github.com:sysadsantos2/githubfolder.git
 >>>>>>> cd526a4650fad3f2e242a384061ce49b934365f4
