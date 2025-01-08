@@ -9,7 +9,6 @@ This is a new line
 a is for apple
 
 git remote set-url git@github.com:sysadsantos2/githubfolder.git
->>>>>>> cd526a4650fad3f2e242a384061ce49b934365f4
 
 ![Screenshot 2025-01-08 at 8 28 46 AM](https://github.com/user-attachments/assets/7550b620-1c1a-4d28-83ca-084fc5ecb66f)
 ![Screenshot 2025-01-08 at 8 32 40 AM](https://github.com/user-attachments/assets/dab1f7a2-6b00-4498-9e3f-557a146ca1d3)
