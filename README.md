@@ -11,3 +11,7 @@ Common git commands:
 - git add 
 - git commit
 - git log
+- git branch #list all branches
+- git checkout <branch name>
+- git merge <branch name>
+- git branch -d <branch name> # delete
